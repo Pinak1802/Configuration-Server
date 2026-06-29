@@ -1,3 +1,6 @@
+spring: 
+  application: 
+    name: GIT-HUB CLIENT
 eureka:
   instance:
     prefer-ip-address: true
